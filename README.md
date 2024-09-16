@@ -1,7 +1,3 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
 ## Heyyo, I'm mita!
 Informatics student at Universitas Udayana, currently interested in text mining, Natural Language Processing (NLP), and machine learning. I’m learning and building projects with PHP (Laravel), HTML, CSS, and Python. 🚀
 
@@ -28,7 +24,7 @@ Informatics student at Universitas Udayana, currently interested in text mining,
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF?si=njdpg4amRyOhf4mzbHQTqQ)
 
 <br/>
 
@@ -36,4 +32,4 @@ Informatics student at Universitas Udayana, currently interested in text mining,
 
 ### 📊 GitHub Stats
 
-[![Shelomita's github stats](https://github-readme-stats.vercel.app/api?username=your-github-username&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Shelomita's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelomitaa20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
