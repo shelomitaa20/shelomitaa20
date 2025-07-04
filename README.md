@@ -1,6 +1,6 @@
-## Howdy, It's mita
+## Howdy, it's mita
 
-#### Informatics student at Universitas Udayana with a keen interest in web development and machine learning 🌟
+#### Informatics student with a keen interest in web development and machine learning 🌟
 
 ---
 
